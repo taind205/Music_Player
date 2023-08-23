@@ -1,6 +1,6 @@
 # Music_Player
 
-Là project front-end của ứng dụng nghe nhạc đa nền tảng.
+Là project front-end dành cho nền tảng Windows của ứng dụng nghe nhạc đa nền tảng.
 
 Project được thực hiện với Unity Editor 2021.3.23f1
 
